@@ -1,0 +1,2 @@
+increase date rate limit:py -m  notebook --NotebookApp.iopub_data_rate_limit=1e10
+open jupyter notebook: py -m notebook
