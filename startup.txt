@@ -7,6 +7,7 @@ stop_hinglish.txt is a file needed in the code that is in pycharm so you will ha
 
 Things that are neede to be runned on terminal of pycharm before runing the project in pycharm: (as well as cmd for jupyter notebook to run uninterruptedly)
 pip install streamlit
+pip install pandas
 pip install OpenSSL or pip install openssl@1.1 
 pip install seaborn 
 pip install emoji==1.7.0
