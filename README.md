@@ -13,6 +13,6 @@ The analyzer also provides insights into individual participation. It identifies
 
 Lastly, our WhatsApp Chat Analyzer unveils the peak activity times during the day when users are most active. By understanding these patterns, you can optimize your communication strategies, ensuring important messages reach the widest audience.
 
-Our project employs cutting-edge machine learning techniques, including natural language processing (NLP) and data mining, to achieve these results. These algorithms enable us to extract valuable information from the chat data and present it in an easily digestible format.
+Our project employs cutting-edge machine learning techniques, including Machine Learning Algorithms and various Libraries, to achieve these results. These algorithms enable us to extract valuable information from the chat data and present it in an easily digestible format.
 
 In summary, our WhatsApp Chat Analyzer is a comprehensive tool that revolutionizes how you understand and interpret your group conversations. Gain deep insights into your chat dynamics, identify active contributors, track media sharing, and uncover valuable patterns within your conversations. Enhance your group communication and make data-driven decisions with our powerful WhatsApp Chat Analyzer
