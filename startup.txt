@@ -1,2 +1,16 @@
 increase date rate limit:py -m  notebook --NotebookApp.iopub_data_rate_limit=1e10
 open jupyter notebook: py -m notebook
+
+To start the project you need to add aap.py,helper.py,preprocessor.py to your pycharm and write (streamlit run app.py)to the terminal and run the overall project brief is in the jupyter notebook named whatspp-chat-analysis-checkpoint.ipnyb and whatspp-chat-analysis-checkpoint.ipnyb aadd that to your local folder ,locate that in command prompt and write (py -m notebook) for new version jupyter notebook and if your chat are large enough i.e includes more than 2 years of chatting period than write (py -m  notebook --NotebookApp.iopub_data_rate_limit=1e10) as this increases the data limit to be printed in an notebook as an output to the code written.
+
+stop_hinglish.txt is a file needed in the code that is in pycharm so you will have to add that to your pycharm folder as well
+
+Things that are neede to be runned on terminal of pycharm before runing the project in pycharm: (as well as cmd for jupyter notebook to run uninterruptedly)
+pip install streamlit
+pip install OpenSSL or pip install openssl@1.1 
+pip install seaborn 
+pip install emoji==1.7.0
+pip install wordcloud   
+pip install matplotlib 
+pip install urlextract
+pip install urllib3==1.26.6  
